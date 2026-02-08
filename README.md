@@ -4,6 +4,8 @@ A simple Chrome extension that merges all windows and tabs from the current Prof
 
 一个简单的 Chrome 扩展，可以将当前 Profile 下的所有窗口和标签页合并到一个窗口，并自动创建标签页分组。
 
+![Example](image.png)
+
 ---
 
 ## Features / 功能特点
@@ -46,6 +48,7 @@ After clicking the extension in Window C / 在窗口 C 中点击扩展后：
 - All tabs from Window A → Group "1" (random color, e.g., blue) / 窗口 A 的所有标签页 → 分组 "1"（随机颜色，如蓝色）
 - All tabs from Window B → Group "2" (random color, e.g., red) / 窗口 B 的所有标签页 → 分组 "2"（随机颜色，如红色）
 - Window A and Window B close automatically / 窗口 A 和窗口 B 自动关闭
+
 
 ---
 
